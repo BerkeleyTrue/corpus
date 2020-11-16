@@ -1,10 +1,8 @@
 ---
-tags: command-line,bash
+tags: command-line,bash,linux
 title: terminal-shortcuts
 ---
 
-links:
-  - [what-does 2>&1 mean](https://stackoverflow.com/questions/818255/in-the-shell-what-does-21-mean)
 
 ## Comand line hax
 
@@ -37,3 +35,5 @@ echo test 1>&2 # or echo test >&2
 Or vice versa:
 
 echo test 2>&1
+
+see also: [what-does 2>&1 mean](https://stackoverflow.com/questions/818255/in-the-shell-what-does-21-mean)
