@@ -31,3 +31,9 @@ and juggling the changes of session into X11.
 
 An invalid symbol in bash script loaded at start up caused the lightdm to loop
 the login screen with no feedback.
+
+## See Also
+
+[terminal-shortcuts]
+
+[terminal-shortcuts]: <./corpusterminal-shortcuts.md>
