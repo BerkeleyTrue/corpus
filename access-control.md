@@ -1,5 +1,5 @@
 ---
-title: access control
+title: access-control
 ---
 
 ## Access control
