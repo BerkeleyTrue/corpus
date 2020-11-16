@@ -1,5 +1,5 @@
 ---
-title: Project Fractal Turtles
+title: project-turtles
 ---
 
 ## Musings for project management
