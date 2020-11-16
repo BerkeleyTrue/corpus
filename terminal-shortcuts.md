@@ -35,4 +35,9 @@ Or vice versa:
 
 echo test 2>&1
 
-see also: [what-does 2>&1 mean](https://stackoverflow.com/questions/818255/in-the-shell-what-does-21-mean)
+#### see also
+
+[linux]
+[what-does 2>&1 mean](https://stackoverflow.com/questions/818255/in-the-shell-what-does-21-mean)
+
+[linux]: <./corpuslinux.md>
