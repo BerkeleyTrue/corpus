@@ -2,13 +2,6 @@
 title: clojure
 ---
 
----
-title: clojure(script)
-tags:
-  - cjs
-  - dvl
----
-
 ## tooling
 
 ### linting
