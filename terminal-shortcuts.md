@@ -3,7 +3,6 @@ tags: command-line,bash,linux
 title: terminal-shortcuts
 ---
 
-
 ## Comand line hax
 
 when running commands in a script, often you want the command to run without
