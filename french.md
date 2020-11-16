@@ -1,5 +1,5 @@
 ---
-title: French,
+title: french
 ---
 
 ## Atheletes
