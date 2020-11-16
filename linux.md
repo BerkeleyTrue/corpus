@@ -1,5 +1,5 @@
 ---
-title: linux learnings
+title: linux
 ---
 
 ## Multi monitor changes
