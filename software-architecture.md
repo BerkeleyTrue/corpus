@@ -43,7 +43,7 @@ title: software-architecture
 * Event store changes to entities, not final state
 * To get current state of an entity, fold over events
 * To save time/compute snapshots of events can be made and stored in separate
-  query databases for consumtion
+  query databases for consumption
 
 # Domain Driven Design
 
