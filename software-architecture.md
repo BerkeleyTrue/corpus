@@ -69,9 +69,9 @@ title: software-architecture
     * without patterns, DDD becomes a system modeling methodology
   * Wider Applicativity
     * Communition: No matter how small the domain, if language is not
-      ubiquitious, it can lead to accidental complexity
+      ubiquitous, it can lead to accidental complexity
     * Business Growth: A domain increases in complexity more often the
-      descreases.
+      decreases.
 
 # Cap Theorem
 
