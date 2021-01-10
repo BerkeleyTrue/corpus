@@ -28,7 +28,9 @@ develepment
 > is to make it so simple that there are obviously no deficiencies adn that the
 > other way is to make it so complicated that there are no obvious deficiencies.
 > The first method is far more difficult.
-> - Hoare (1980)
+>> - Hoare (1980)
+
+* creating and maintaining such systems causes us to expend huge resources
 
 
-
+## 3 Approaches to Understanding
