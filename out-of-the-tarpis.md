@@ -50,3 +50,42 @@ develepment
 * Rely on testing at your peril.
 
 > Invest in simplicity
+
+## 4 Causes of Complexity
+
+* due to state
+  * impacts on tests
+    * one particular state does not tell you anything about the behavior of a
+      system in another state
+
+* impact of state on informal reasoning
+  * increasing the number of state makes mental simulations increasingly difficult
+
+*The Problem with state*
+
+> When you let the nose of a camel into the tent, the rest of him tends to follow
+
+### Caused by Control
+
+> Controll is basically about the order in which things happen.
+
+> They are being forced to specify an aspect of *how* the system should work
+> rather than simply *what* is desired.
+
+* Imperative vs Declarative
+
+### Other Causes
+
+* dead code
+* duplicate code
+* unnecessary abstraction (data abstraction)
+* missed abstraction
+* poor modularization
+* poor documentation
+
+
+* *Complexity breads Complexity*
+* *Simplicity is **HARD** *
+* *Power Corrupts*
+
+
