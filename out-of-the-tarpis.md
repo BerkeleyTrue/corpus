@@ -4,7 +4,7 @@ title: out-of-the-tarpis
 
 # Out of the tar pits
 
-## 1
+## 1:
 
 Complexity is the single most major difficulty in successful software
 develepment
@@ -15,7 +15,7 @@ develepment
   * flow of control
 
 
-## 2 Complexity
+## 2: Complexity
 
 * is the root cause of a vast majority of software
 * Complexity destroys understanding.
@@ -33,7 +33,7 @@ develepment
 * creating and maintaining such systems causes us to expend huge resources
 
 
-## 3 Approaches to Understanding
+## 3: Approaches to Understanding
 
 * testing: attempting to understand a system from the outside
 * informal reasoning: attempting to understand the system from the inside
@@ -51,7 +51,7 @@ develepment
 
 > Invest in simplicity
 
-## 4 Causes of Complexity
+## 4: Causes of Complexity
 
 * due to state
   * impacts on tests
@@ -87,5 +87,31 @@ develepment
 * *Complexity breads Complexity*
 * *Simplicity is **HARD** *
 * *Power Corrupts*
+
+# 5: Classical Approaches to Managing Complexity
+
+* Object Oriented
+  * State encapsulation
+  * Object Identity aka *Intensional Identity*
+  * in contrast to *Extensional Identity* (objects with the same shape)
+  * *suffers from all the problems of managing state above
+  * does not provide an adequate foundation for avoiding complexity
+
+* Functional
+  * avoids state
+  * gains referential transparency
+
+
+* Kinds of state
+  * when we talk about state we are really talking about mutable state
+
+
+* state and modularity
+
+> The trade of is between complexity (with the ability to take a shortcut when
+> making some specific types of change) and simplicity (with huge improvements in
+> both testing and reasoning)
+
+> Problems arise when the system to be built must maintain state of some kind
 
 
